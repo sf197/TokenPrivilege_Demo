@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\TokenDemo\TokenDemo\bin\Debug\TokenDemo.exe.config
+C:\Users\DELL\source\repos\TokenDemo\TokenDemo\bin\Debug\TokenDemo.exe
+C:\Users\DELL\source\repos\TokenDemo\TokenDemo\bin\Debug\TokenDemo.pdb
+C:\Users\DELL\source\repos\TokenDemo\TokenDemo\obj\Debug\TokenDemo.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\TokenDemo\TokenDemo\obj\Debug\TokenDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TokenDemo\TokenDemo\obj\Debug\TokenDemo.exe
+C:\Users\DELL\source\repos\TokenDemo\TokenDemo\obj\Debug\TokenDemo.pdb

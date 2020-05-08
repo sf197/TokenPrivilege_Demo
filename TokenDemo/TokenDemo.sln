@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenDemo", "TokenDemo\TokenDemo.csproj", "{8B89F1C4-8BA0-45FD-8C5D-D6716C650671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B89F1C4-8BA0-45FD-8C5D-D6716C650671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B89F1C4-8BA0-45FD-8C5D-D6716C650671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B89F1C4-8BA0-45FD-8C5D-D6716C650671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B89F1C4-8BA0-45FD-8C5D-D6716C650671}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42A51625-44B2-4377-BA3F-2B14178E6DD4}
+	EndGlobalSection
+EndGlobal
